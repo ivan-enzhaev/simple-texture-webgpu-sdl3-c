@@ -12,6 +12,8 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 set(PROJECT_SOURCES
     src/main.c
     src/texture_utils.h
+    src/webgpu_context.h
+    src/webgpu_context.c
 )
 
 # -----------------------------------------------------------------------------
